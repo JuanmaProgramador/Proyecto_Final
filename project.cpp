@@ -7,10 +7,10 @@ int main(){
 	int op,puntos;
 	char respuesta;
 	string pregunta[15]={
-		"Cual es el numero mayor?",
-		"Cual es el numero menor?",
-		"Cuanto es 545 - 30?",
-		"Cuanto es 453 + 20?",
+		"¿Cual es el numero mayor?",
+		"¿Cual es el numero menor?",
+		"¿Cuanto es 545 - 30?",
+		"¿Cuanto es 453 + 20?",
 		"Tiene un 4 que vale 40",
 		"300 + 200 + 4",
 		"3 veces el numero 100",
